@@ -22,3 +22,6 @@ Connections:
 -VCC (Red) → 5V
 -GND (Brown) → GND
 -Signal (Orange) → Pin 6
+
+3.App 
+-processing
