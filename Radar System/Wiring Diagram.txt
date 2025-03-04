@@ -1,0 +1,24 @@
+
+1. Components Required
+  Arduino Uno
+-HC-SR04 Ultrasonic Sensor
+-SG90 Servo Motor
+-Jumper Wires
+-Processing (Software for Visualization)
+
+
+2. Wiring Diagram
+
+Connections:
+  HC-SR04 to Arduino:
+
+-VCC → 5V
+-GND → GND
+-Trig → Pin 9
+-Echo → Pin 10
+
+  SG90 Servo to Arduino:
+
+-VCC (Red) → 5V
+-GND (Brown) → GND
+-Signal (Orange) → Pin 6
